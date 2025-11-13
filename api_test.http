@@ -1,0 +1,14 @@
+### Главная страница API
+GET http://localhost:8001/
+
+### Все продавцы
+GET http://localhost:8001/api/v1/sellers/
+
+### Продажи категории 123
+GET http://localhost:8001/api/v1/category/123
+
+### Все продукты
+GET http://localhost:8001/api/v1/products/
+
+### Продажи продавца с ID 1
+GET http://localhost:8001/api/v1/sellers/1
